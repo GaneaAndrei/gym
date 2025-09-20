@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Group Flat Gym",
+      "image": "./images/card_image1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+   
+    },
+    {
+      "id": 2,
+      "title": "Dumbbell Gym",
+      "image": "./images/card_image2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+
+    },
+    {
+      "id": 3,
+      "title": "Lifting Weight",
+      "image": "./images/card_image3.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    },
+    {
+      "id": 4,
+      "title": "Stretching",
+      "image": "./images/card_image4.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    },
+    {
+      "id": 5,
+      "title": "Cardio Blast",
+      "image": "./images/card_image5.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    },
+    {
+      "id": 6,
+      "title": "Pulling",
+      "image": "./images/card_image6.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    },
+    {
+      "id": 7,
+      "title": "Jump Rope",
+      "image": "./images/card_image7.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    },
+    {
+      "id": 8,
+      "title": "Upper Chest",
+      "image": "./images/card_image8.png",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipig elit. Praesent vestibulummolestie lacus. Aenean nonummy."
+ 
+    }
+  ]
